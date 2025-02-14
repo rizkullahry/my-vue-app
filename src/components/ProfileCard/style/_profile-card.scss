@@ -1,0 +1,13 @@
+.profile-card {
+    &--name {
+        font-size: 28px;
+    }
+    &--email {
+        font-size: 18px;
+    }
+    &--background {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
