@@ -5,8 +5,8 @@
             <span class="profile-card--name"> <!--tanpa span gbs style name-->
                 {{ dataProfileSection.name }}
             </span>
-            <span class="profile-card--email"> <!--tanpa span gbs style name-->
-                {{ dataProfileSection.email }}
+            <span class="profile-card--location"> <!--tanpa span gbs style name-->
+                {{ dataProfileSection.location }}
             </span>
         </div>
     </div>
